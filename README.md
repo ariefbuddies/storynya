@@ -1,2 +1,1 @@
-# storymu
-# storyku
+# storynya
